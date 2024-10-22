@@ -16,14 +16,28 @@ I gotta think about my future-self and teammates; how would they feel working af
 
 [demo_mobile_quiz_game]: https://github.com/antoineww/antoineww/blob/main/demos/quiz.gif "Play the Quiz & Try again the same Quiz"
 [demo_web_aw_pokedex]: https://github.com/antoineww/antoineww/blob/main/demos/aw_pokedex_demo4.gif "Custom web dashboard Pokedex"
+[demo_web_play_with_words1]: https://github.com/antoineww/antoineww/blob/main/demos/play_words1.gif "Play with Word 1"
+[demo_web_play_with_words2]: https://github.com/antoineww/antoineww/blob/main/demos/play_words2.gif "Play with Word 2"
 
 1. Custom Web Dashboard Pokedex
+   - `React, JS, TS, Bulma CSS`
 
-   ![Web Pokedex][demo_web_aw_pokedex]
+      ![Web Pokedex][demo_web_aw_pokedex]
 
-1. Mobile Quiz Game
+2. Mobile Quiz Game
+   - `React Native, JS`
 
-   <img src="https://github.com/antoineww/antoineww/blob/main/demos/quiz.gif" alt="Custom web dashboard Pokedex" width="250em" height="500em">
+      <img src="https://github.com/antoineww/antoineww/blob/main/demos/quiz.gif" alt="Custom web dashboard Pokedex" width="250em" height="500em">
+
+3. Play with Words App 
+   - `AngularJS, JS, Bootstrap`
+   1. Optimized find anagrams performance
+
+         ![Play with Words 1][demo_web_play_with_words1]
+
+   2. Optimized find rhymes performance even with pronunciation
+         ![Play with Words 2][demo_web_play_with_words2]
+
 
 
 
