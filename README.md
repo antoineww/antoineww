@@ -16,6 +16,7 @@ I gotta think about my future-self and teammates; how would they feel working af
 
 [demo_mobile_quiz_game]: https://github.com/antoineww/antoineww/blob/main/demos/quiz.gif "Play the Quiz & Try again the same Quiz"
 [demo_web_aw_pokedex]: https://github.com/antoineww/antoineww/blob/main/demos/aw_pokedex_demo4.gif "Custom web dashboard Pokedex"
+[human_vs_bird]: https://github.com/antoineww/antoineww/blob/main/demos/human_vs_bird.gif "Human vs Bird Game"
 [demo_web_play_with_words1]: https://github.com/antoineww/antoineww/blob/main/demos/play_words1.gif "Play with Word 1"
 [demo_web_play_with_words2]: https://github.com/antoineww/antoineww/blob/main/demos/play_words2.gif "Play with Word 2"
 
@@ -29,7 +30,12 @@ I gotta think about my future-self and teammates; how would they feel working af
 
       <img src="https://github.com/antoineww/antoineww/blob/main/demos/quiz.gif" alt="Custom web dashboard Pokedex" width="250em" height="500em">
 
-3. Play with Words App 
+3. Human vs Bird Game
+   - `JS, PhaserJS`
+
+      ![Human vs Bird][human_vs_bird]
+
+4. Play with Words App 
    - `AngularJS, JS, Bootstrap`
    1. Optimized find anagrams performance
 
