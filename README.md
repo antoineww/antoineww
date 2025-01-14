@@ -21,22 +21,26 @@ I gotta think about my future-self and teammates; how would they feel working af
 [demo_web_play_with_words2]: https://github.com/antoineww/antoineww/blob/main/demos/play_words2.gif "Play with Word 2"
 
 1. Custom Web Dashboard Pokedex
-   - `React, JS, TS, Bulma CSS`
+   - Tech Stack: `React, JS, TS, Bulma CSS`
+   - More: ReactApp + REST PokeAPI + ReactMotion
 
       ![Web Pokedex][demo_web_aw_pokedex]
 
 2. Mobile Quiz Game
-   - `React Native, JS`
+   - Tech Stack: `React Native, JS`
+   - More: ReactApp + REST G2i Quiz API 
 
       <img src="https://github.com/antoineww/antoineww/blob/main/demos/quiz.gif" alt="Custom web dashboard Pokedex" width="250em" height="500em">
 
 3. Human vs Bird Game
-   - `JS, PhaserJS`
+   - Tech Stack: `JS, PhaserJS`
+   - More: VS Code LiveServer
 
       ![Human vs Bird][human_vs_bird]
 
 4. Play with Words App 
-   - `AngularJS, JS, Bootstrap`
+   - Tech Stack: `AngularJS, JS, Bootstrap CSS`
+   - More: VS Code LiveServer
    1. Optimized find anagrams performance
 
          ![Play with Words 1][demo_web_play_with_words1]
