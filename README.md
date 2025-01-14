@@ -9,7 +9,9 @@ I gotta think about my future-self and teammates; how would they feel working af
 - 📫 How to reach me  
   🤩 [Check out my Portfolio page](https://antoineww.github.io/)
   
-  And check out some quick demonstrations below
+Also, feel free to explore some quick demonstrations below:
+
+- I enjoy creating short games and data parsing projects, which highlight my ability to manage complex UI interactions and handle intricate functions & formulas with substantial datasets.
 
 # 
 ### DEMOS
@@ -22,25 +24,25 @@ I gotta think about my future-self and teammates; how would they feel working af
 
 1. Custom Web Dashboard Pokedex
    - Tech Stack: `React, JS, TS, Bulma CSS`
-   - More: ReactApp + REST PokeAPI + ReactMotion
+   - More: `ReactApp + REST PokeAPI + ReactMotion`
 
       ![Web Pokedex][demo_web_aw_pokedex]
 
 2. Mobile Quiz Game
    - Tech Stack: `React Native, JS`
-   - More: ReactApp + REST G2i Quiz API 
+   - More: `ReactApp + REST G2i Quiz API` 
 
       <img src="https://github.com/antoineww/antoineww/blob/main/demos/quiz.gif" alt="Custom web dashboard Pokedex" width="250em" height="500em">
 
 3. Human vs Bird Game
    - Tech Stack: `JS, PhaserJS`
-   - More: VS Code LiveServer
+   - More: `VS Code LiveServer`
 
       ![Human vs Bird][human_vs_bird]
 
 4. Play with Words App 
    - Tech Stack: `AngularJS, JS, Bootstrap CSS`
-   - More: VS Code LiveServer
+   - More: `VS Code LiveServer`
    1. Optimized find anagrams performance
 
          ![Play with Words 1][demo_web_play_with_words1]
