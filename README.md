@@ -21,6 +21,7 @@ Also, feel free to explore some quick demonstrations below:
 [human_vs_bird]: https://github.com/antoineww/antoineww/blob/main/demos/human_vs_bird.gif "Human vs Bird Game"
 [demo_web_play_with_words1]: https://github.com/antoineww/antoineww/blob/main/demos/play_words1.gif "Play with Word 1"
 [demo_web_play_with_words2]: https://github.com/antoineww/antoineww/blob/main/demos/play_words2.gif "Play with Word 2"
+[demo_web_busi_props]: https://github.com/antoineww/antoineww/blob/main/demos/busi_props.gif "Ai Business Proposal Generator"
 
 1. Custom Web Dashboard Pokedex
    - Tech Stack: `React, JS, TS, Bulma CSS`
@@ -29,18 +30,24 @@ Also, feel free to explore some quick demonstrations below:
       ![Web Pokedex][demo_web_aw_pokedex]
 
 2. Mobile Quiz Game
-   - Tech Stack: `React Native, JS`
-   - More: `ReactApp + REST G2i Quiz API` 
+   - Tech Stack: `React Native, JS , (ReactApp web version)`
+   - More: `REST G2i Quiz API` 
 
       <img src="https://github.com/antoineww/antoineww/blob/main/demos/quiz.gif" alt="Custom web dashboard Pokedex" width="250em" height="500em">
 
-3. Human vs Bird Game
+3. Ai-Powered Business Proposal Generator
+   - Tech Stack: `NextJS, NodeJS, Material UI`
+   - More: `Google Gemini API + DnDKit (Drag&Drop) + ReduxToolkit`
+
+      ![Business Proposal Generator][demo_web_busi_props]
+
+4. Human vs Bird Game
    - Tech Stack: `JS, PhaserJS`
    - More: `VS Code LiveServer`
 
       ![Human vs Bird][human_vs_bird]
 
-4. Play with Words App 
+5. Play with Words App 
    - Tech Stack: `AngularJS, JS, Bootstrap CSS`
    - More: `VS Code LiveServer`
    1. Optimized find anagrams performance
